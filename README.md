@@ -1,5 +1,5 @@
 <h2>Sacola API para Servir um App de Delivery</h2>
-<p>Feita durante a semana iFood Dev Week da Dio.me, durante os dias 26-29 de setembro de 2022.</p>
+<p>Feita durante a semana iFood Dev Week da Dio.me, durante os dias 26-29 de setembro de 2022, com aulas da professora .</p>
 
 <h3>🔨 Lista de Ferramentas</h3>
 <table>
