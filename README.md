@@ -9,11 +9,11 @@
 </tr>
 <tr>
 	<td>Java JDK</td>
-	<td>8+</td>
+	<td>17</td>
 </tr>
 <tr>
 	<td>Git</td>
-	<td>2.**</td>
+	<td>2.37.3</td>
 </tr>
 <tr>
 	<td>Gradle</td>
@@ -21,7 +21,7 @@
 </tr>
 <tr>
 	<td>Postman</td>
-	<td>9.**</td>
+	<td>9.31.13</td>
 </tr>
 </table>
 
